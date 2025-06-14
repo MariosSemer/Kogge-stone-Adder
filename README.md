@@ -18,19 +18,20 @@ This project implements a Kogge-Stone Adder (KSA) in VHDL, a parallel prefix for
 
       ● Post_Process
    
-Fully synchronous and synthesizable
+● Fully synthesizable
 
-File Structure
-Kogge_Stone_Adder_tb.vhd - Top-level entity for the adder
+## File Structure
 
-Kogge_Stone_Adder.vhd - Implements the Kogge Stone Adder
+● Kogge_Stone_Adder_tb.vhd - Top-level entity for the adder
 
-Gray_Cell.vhd - Implements carry computation when propagate is not needed
+● Kogge_Stone_Adder.vhd - Implements the Kogge Stone Adder
 
-Black_Cell.vhd - Computes both generate and propagate values
+● Gray_Cell.vhd - Implements carry computation when propagate is not needed
 
-Pre_Process.vhd - Calculates initial generate/propagate signals
+● Black_Cell.vhd - Computes both generate and propagate values
 
-Post_Process.vhd - Computes the final sum output
+● Pre_Process.vhd - Calculates initial generate/propagate signals
 
-log2_pkg.vhd - Provides log2() function used for determining the number of stages
+● Post_Process.vhd - Computes the final sum output
+
+● log2_pkg.vhd - Provides log2() function used for determining the number of stages
