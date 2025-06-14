@@ -1,3 +1,14 @@
+----------------------------------------------------------------------------------
+
+-- Module Name: Kogge Stone Adder Testbench
+-- Project Name: N-bit Kogge-Stone Adder
+-- Target Devices: Artix-7
+-- Description:  This is a simple testbench file, which implements and simulates 
+-- 		 the results of the Kogge Stone Adder.
+-- Author : Semertzakis Marios
+
+----------------------------------------------------------------------------------
+
 library ieee;
 use ieee.std_logic_1164.all;
 
