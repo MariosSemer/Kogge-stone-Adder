@@ -1,3 +1,14 @@
+----------------------------------------------------------------------------------
+
+-- Module Name: Kogge Stone Adder
+-- Project Name: N-bit Kogge-Stone Adder
+-- Target Devices: Artix-7
+-- Description:  This file implements the Kogge Stone Adder, which combines all the
+--		 files to implement the addition.
+-- Author : Semertzakis Marios
+
+----------------------------------------------------------------------------------
+
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
