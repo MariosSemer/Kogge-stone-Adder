@@ -1,3 +1,15 @@
+----------------------------------------------------------------------------------
+
+-- Module Name: Pre Processing Unit
+-- Project Name: N-bit Kogge-Stone Adder
+-- Target Devices: Artix-7
+-- Description:  This file implements the pre process, which generates the initial 
+-- 		 propagate and generate signals from the input operands' bits using 
+-- 		 basic logic operations.
+-- Author : Semertzakis Marios
+
+----------------------------------------------------------------------------------
+
 library ieee;
 use ieee.std_logic_1164.all;
 
