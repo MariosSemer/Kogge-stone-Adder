@@ -10,14 +10,14 @@ This project implements a Kogge-Stone Adder (KSA) in VHDL, a parallel prefix for
 
 ● Modular design with dedicated components:
 
-   ● Pre_Process
+      ● Pre_Process
 
-   ● Gray_Cell
+      ● Gray_Cell
 
-   ● Black_Cell
+      ● Black_Cell
 
-   ● Post_Process
-
+      ● Post_Process
+   
 Fully synchronous and synthesizable
 
 File Structure
