@@ -1,6 +1,7 @@
 # Kogge-stone-Adder
 ## Generic Kogge Stone Adder - Overview
 This project implements a Kogge-Stone Adder (KSA) in VHDL, a parallel prefix form of a carry-lookahead adder designed for high-performance binary addition. The design is parameterized to support arbitrary widths (as long as the width is a power of 2) and makes use of modular components for pre-processing, carry generation (gray/black cells), and post-processing.
+This was implemented using Vivado Tool on the FPGA Artix-7 AC701 Evaluation Platform.
 
 ## Features
 
