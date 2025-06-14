@@ -49,5 +49,6 @@ This was implemented using Vivado Tool on the FPGA Artix-7 AC701 Evaluation Plat
 
 ![design](https://github.com/user-attachments/assets/0dfc58bf-4b18-4e71-b8bf-dd3bc2e6f11e)
 
+## Bibliography
 
-
+[1] Design of Integrated Systems - CMOS VLSI - Neil H. E. Weste, David M. Harris
