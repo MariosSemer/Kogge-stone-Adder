@@ -1,3 +1,15 @@
+----------------------------------------------------------------------------------
+
+-- Module Name: Black Cell
+-- Project Name: N-bit Kogge-Stone Adder
+-- Target Devices: Artix-7
+-- Description:  This file implements the black cell, which computes the combined 
+-- 		 generate and propagate signals from two pairs of input signals to 
+--		 pass them to the next stage of the prefix tree.
+-- Author : Semertzakis Marios
+
+----------------------------------------------------------------------------------
+
 library ieee;
 use ieee.std_logic_1164.all;
 
