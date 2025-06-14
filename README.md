@@ -4,7 +4,7 @@ This project implements a Kogge-Stone Adder (KSA) in VHDL, a parallel prefix for
 
 ## Features
 
-*Parameterizable input width N (default: 32 bits)
+-Parameterizable input width N (default: 32 bits)
 
 Logarithmic carry computation using Kogge-Stone prefix tree
 
