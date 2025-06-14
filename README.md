@@ -35,3 +35,18 @@ This project implements a Kogge-Stone Adder (KSA) in VHDL, a parallel prefix for
 ● Post_Process.vhd - Computes the final sum output
 
 ● log2_pkg.vhd - Provides log2() function used for determining the number of stages
+
+## Post-Implementation Functional Simulation
+
+![Simulation post implementation funcional](https://github.com/user-attachments/assets/5bab03b6-a337-4870-9f7e-c11f644b59d3)
+
+## Resource Utilization
+
+![resource utilization](https://github.com/user-attachments/assets/5890c03b-f57f-42ec-90ff-dd46df6e3dfd)
+
+## RTL Schematic
+
+![design](https://github.com/user-attachments/assets/0dfc58bf-4b18-4e71-b8bf-dd3bc2e6f11e)
+
+
+
